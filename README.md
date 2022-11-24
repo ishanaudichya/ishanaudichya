@@ -27,4 +27,4 @@ I'm a UnderGraduate Student living in Vellore, TamilNadu. Outside Tech, I love t
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:audichyaishan@gmail.com">![audichyaishan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="[https://www.linkedin.com/in/ishan-audichya/](https://www.linkedin.com/in/ishan-audichya-a929b4236/)">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/ishan-audichya-a929b4236/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
