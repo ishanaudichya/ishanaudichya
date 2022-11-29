@@ -27,7 +27,7 @@ I'm a UnderGraduate Student living in Vellore, TamilNadu. Outside Tech, I love t
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://twitter.com/ishan_audichya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishan_audichya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ishan-audichya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan-audichya" height="30" width="40" /></a>
