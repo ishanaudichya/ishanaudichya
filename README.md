@@ -9,7 +9,7 @@
 I'm Ishan Audichya! 
 - <i>Currently:</i> CS student at Vellore Institute of Technology. 
 
-<h2>💻 I'm Currently workng on</h2>
+<h2>💻 I'm Currently working on</h2>
 
 - FrontEnd Web Development
 - Software Engineering
