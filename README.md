@@ -23,7 +23,7 @@ Do check out my GitHub repository:
 
 <h2> About Audichya⚡:</h2>
 
-I'm a UnderGraduate Student living in Vellore, TamilNadu. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around, drop an email and let's catch-up over Coffee!
+I'm a UnderGraduate Student studying in Vellore, TamilNadu. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around, drop an email and let's catch-up over Coffee!
 
 
 
