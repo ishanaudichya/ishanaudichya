@@ -6,7 +6,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ishanaudichya.ishanaudichya)](https://github.com/ishanaudichya) [![GitHub followers](https://img.shields.io/github/followers/ishanaudichya.svg?style=social&label=Follow)](https://github.com/ishanaudichya?tab=followers)
 
-I'm Ishan Audichya! 
+![Header](./banner.png) 
 - <i>Currently:</i> CS student at Vellore Institute of Technology. 
 
 <h2>💻 I'm Currently working on</h2>
