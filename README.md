@@ -12,10 +12,9 @@
 <h2>💻 I'm Currently working on</h2>
 
 - FrontEnd Web Development
-- Software Engineering
-- 3D Animation and Designing
-- Android Develoment
-
+- Fullstack Development
+- Data Science
+- AWS Certification
 Do check out my GitHub repository:
 
 
