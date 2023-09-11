@@ -36,6 +36,6 @@ I'm a UnderGraduate Student studying in Vellore, TamilNadu. Outside Tech, I love
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ishanaudichya&show_icons=true&locale=en" alt="ishanaudichya" /><br><br><br>
 <br>
 </p>
-![](https://github-contributor-stats.vercel.app/api?username=ishanaudichya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=ishanaudichya&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanaudichya&" alt="ishanaudichya" /></p>
 
