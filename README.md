@@ -33,9 +33,9 @@ I'm a UnderGraduate Student studying in Vellore, TamilNadu. Outside Tech, I love
 
 <h3 align="left">Support Me UwU :</h3>
 <p><a href="https://www.buymeacoffee.com/audichya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="audichya" /></a></p><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ishanaudichya&show_icons=true&locale=en" alt="ishanaudichya" /><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ishanaudichya&show_icons=true&locale=en&theme=dark" alt="ishanaudichya" /><br><br><br>
 <br>
 </p>
 <img src="https://github-contributor-stats.vercel.app/api?username=ishanaudichya&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanaudichya&" alt="ishanaudichya" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanaudichya&theme=dark" alt="ishanaudichya" /></p>
 
