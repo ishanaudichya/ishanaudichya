@@ -5,6 +5,8 @@
 <h2>Heyoo 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ishanaudichya.ishanaudichya)](https://github.com/ishanaudichya) [![GitHub followers](https://img.shields.io/github/followers/ishanaudichya.svg?style=social&label=Follow)](https://github.com/ishanaudichya?tab=followers)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ebe7d57-d6b2-4e70-affb-ad4d611b85be/deploy-status)](https://app.netlify.com/sites/ishanaudichya/deploys)
+
 
 ![Header](./banner.png) 
 - <i>Currently:</i> CS student at Vellore Institute of Technology. 
