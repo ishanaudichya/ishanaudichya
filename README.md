@@ -15,7 +15,7 @@
 
 
 
-<h2> About Audichya⚡:</h2>
+<h2> About Me :</h2>
 
 I'm a UnderGraduate Student studying in Vellore, TamilNadu. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around, drop an email and let's catch-up over Coffee!
 
