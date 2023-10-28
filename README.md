@@ -4,16 +4,12 @@
 <h1 align="center">Hello, I'm Ishan 😊</h1>
 <h3 align="center">Figuring out how my computer works</h3>
 
-
-
 ![Header](./banner1.webp)<center><i>^ literally me :D ^</i></center>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ishanaudichya.ishanaudichya)](https://github.com/ishanaudichya) [![GitHub followers](https://img.shields.io/github/followers/ishanaudichya.svg?style=social&label=Follow)](https://github.com/ishanaudichya?tab=followers)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4ebe7d57-d6b2-4e70-affb-ad4d611b85be/deploy-status)](https://ishanaudichya.netlify.app)
 
-[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-red?style=flat&link=https://ishanaudichya.netlify.app/)](https://ishanaudichya.netlify.app/) [![Socials](https://img.shields.io/badge/Socials-(desktop)-grey?labelColor=purple&style=flat&link=https://linktoishan.netlify.app/)](https://linktoishan.netlify.app/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-audichya) 
-
-
+[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-red?style=flat&link=https://ishanaudichya.netlify.app/)](https://ishanaudichya.netlify.app/) [![Socials](<https://img.shields.io/badge/Socials-(desktop)-grey?labelColor=purple&style=flat&link=https://linktoishan.netlify.app/>)](https://linktoishan.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-audichya)
 
 <h2> About Me :</h2>
 
@@ -25,12 +21,10 @@ I'm a UnderGraduate Student studying in Vellore, TamilNadu. Outside Tech, I love
 - Fullstack Development
 - Data Science
 - AWS Certification
+- DevOps | Docker.io
   <br/>
 
-
 ### Do check out my GitHub repositories !!!
-
-
 
 ## 💻 Tech Stack:
 
