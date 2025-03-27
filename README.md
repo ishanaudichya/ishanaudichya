@@ -13,11 +13,10 @@
 
 <h2> About Me :</h2>
 
-I'm a UnderGraduate Student studying in Vellore, TamilNadu. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around, drop an email and let's catch-up over Coffee!
+I'm am a Software Developer working in <a href="https://trademarkia.com"> TradeMarkia </a>, Chennai. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around, drop an email and let's catch-up over Coffee!
 
 <h2>💻 I'm Currently working on</h2>
 
-- FrontEnd Web Development
 - Fullstack Development
 - System Design
 - AWS
